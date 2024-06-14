@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sent</name>
+   <tag></tag>
+   <elementGuidId>b34708b4-640a-48fa-b811-cd58c94d8311</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.TN.bzz.aHS-bnu > div.aio.UKr6le</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':6g']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=navigation >> div >> internal:has-text=/^Sent$/ >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b39f77fe-6f26-4e3f-b012-7969f0404f81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>aio UKr6le</value>
+      <webElementGuid>950ffcfc-3ab4-4068-958f-5b49852db95f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sent</value>
+      <webElementGuid>4914da95-248b-4e9b-8e48-efa622b9e478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:6g&quot;)/div[@class=&quot;TN bzz aHS-bnu&quot;]/div[@class=&quot;aio UKr6le&quot;]</value>
+      <webElementGuid>5cd918cc-598d-4dd2-b638-f067192c05fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':6g']/div/div[2]</value>
+      <webElementGuid>f9c003d3-ddfe-4eb9-ab19-ba58ee122c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Snoozed'])[1]/following::div[6]</value>
+      <webElementGuid>c9a89099-74d9-4d94-a21c-2a5ab1b91b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starred'])[1]/following::div[12]</value>
+      <webElementGuid>4206dc8c-dbca-48a5-b312-dad2693ef979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drafts'])[1]/preceding::div[3]</value>
+      <webElementGuid>64dd2f3b-6f3e-4287-8cd6-99d41585d0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div/div/div/div/div/div[4]/div/div/div[2]</value>
+      <webElementGuid>7b9fa15f-104d-44a6-bdf6-573be994e236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sent' or . = 'Sent')]</value>
+      <webElementGuid>cf8cd7b1-8eca-46aa-a66c-749c705f2dab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

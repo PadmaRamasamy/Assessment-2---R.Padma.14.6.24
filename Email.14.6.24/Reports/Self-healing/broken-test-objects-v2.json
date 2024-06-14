@@ -9,6 +9,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Gmail/span_Next_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Gmail Private and secure email at no c_d3ebd8/a_Sign in",
+      "brokenLocator": "//a[contains(text(),\u0027Sign in\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Gmail\u0027])[1]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Gmail Private and secure email at no c_d3ebd8/a_Sign in_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Gmail/div_Learn more about using Guest mode_VfPpk_8ca253",
+      "brokenLocator": "//div[@id\u003d\u0027identifierNext\u0027]/div/button/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "internal:role\u003dbutton[name\u003d\"Next\"i]",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Gmail/div_Learn more about using Guest mode_VfPpk_8ca253_SMART_LOCATOR.png"
     }
   ]
 }

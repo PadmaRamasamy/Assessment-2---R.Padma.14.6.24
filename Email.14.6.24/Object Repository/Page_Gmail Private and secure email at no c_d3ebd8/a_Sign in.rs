@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0d63a1e4-ca64-4b43-a3ac-a2ec10f8f44a</webElementGuid>
+      <webElementGuid>16bf565e-f81d-43d1-aeeb-662bf5e983e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
            
             button--mobile-before-hero-only
            </value>
-      <webElementGuid>4565c95d-303b-45c2-8c1d-967212a0aa91</webElementGuid>
+      <webElementGuid>1035ef8f-e234-4ac2-baac-daa66614f3d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://accounts.google.com/AccountChooser/signinchooser?service=mail&amp;continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&amp;flowName=GlifWebSignIn&amp;flowEntry=AccountChooser&amp;ec=asw-gmail-globalnav-signin</value>
-      <webElementGuid>b9b4588e-97cf-49a5-841c-e9e3cac0eb73</webElementGuid>
+      <webElementGuid>0b79bd0d-82aa-4b53-ac84-e5d8be211150</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-action</name>
       <type>Main</type>
       <value>sign in</value>
-      <webElementGuid>3386397d-cd97-4b25-9c33-75485a6b307f</webElementGuid>
+      <webElementGuid>5386046c-e939-4bf5-9a9b-eb962896bd40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-category</name>
       <type>Main</type>
       <value>cta</value>
-      <webElementGuid>426de39f-00f5-4efc-ab28-da20dabf0311</webElementGuid>
+      <webElementGuid>c6bc81a0-a10d-42f7-b051-fb1da1c8c4e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-label</name>
       <type>Main</type>
       <value>header</value>
-      <webElementGuid>2eb51bdd-8b39-4140-8873-9ad86b687b4a</webElementGuid>
+      <webElementGuid>596a2c24-4cba-4fe6-bba9-8c941baddc93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in</value>
-      <webElementGuid>8222966c-e03f-4f97-9674-8f1e6427ef5f</webElementGuid>
+      <webElementGuid>dfc84808-824a-4a8a-a265-2a9493cee374</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
             button--medium
            
             button--mobile-before-hero-only&quot;]</value>
-      <webElementGuid>920043b3-27af-4ef2-b21e-a5cddfa85792</webElementGuid>
+      <webElementGuid>c661e4a5-06dd-4f57-84f1-001650cc7e23</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sign in')]</value>
-      <webElementGuid>ba1f7895-9e57-4fe1-a829-ea06b4081b50</webElementGuid>
+      <webElementGuid>f4ce6fb3-268f-4bf1-b4e0-09480fe7518b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='For work'])[1]/following::a[1]</value>
-      <webElementGuid>58374143-0b41-4be7-880a-b5d5da6d3cf1</webElementGuid>
+      <webElementGuid>1694e283-7dee-401a-aa69-9e5926c28de5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Gmail'])[1]/following::a[2]</value>
-      <webElementGuid>6da5bd04-6e31-43a8-b8ac-325d57846438</webElementGuid>
+      <webElementGuid>ca8dbc22-fd7f-4635-97ae-ea6a91ec0ef0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account'])[1]/preceding::a[1]</value>
-      <webElementGuid>66e0d919-7ed5-462c-b68c-db42698a40ac</webElementGuid>
+      <webElementGuid>168a4ffd-5ed0-474d-94da-5e48c36b5a7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='For my personal use'])[1]/preceding::a[1]</value>
-      <webElementGuid>dc9de944-4c86-47c7-a28d-5e736456c995</webElementGuid>
+      <webElementGuid>b88fe921-541c-444a-aeb0-29d20fa49c52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
-      <webElementGuid>55a859e3-76be-46d8-ab46-66b071245bec</webElementGuid>
+      <webElementGuid>ebd88818-b2a9-485c-84d7-2132aae33a10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://accounts.google.com/AccountChooser/signinchooser?service=mail&amp;continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&amp;flowName=GlifWebSignIn&amp;flowEntry=AccountChooser&amp;ec=asw-gmail-globalnav-signin')]</value>
-      <webElementGuid>d4747318-dd98-4fe8-9a71-3fdc6e27c17e</webElementGuid>
+      <webElementGuid>d49e6283-5faa-418d-be70-d1dc736962cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -164,7 +164,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>c0e0a6e6-cdce-4432-809b-c98fba20cdaf</webElementGuid>
+      <webElementGuid>16534085-fbcd-4923-bb0f-ebe47f6e13a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -172,6 +172,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://accounts.google.com/AccountChooser/signinchooser?service=mail&amp;continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&amp;flowName=GlifWebSignIn&amp;flowEntry=AccountChooser&amp;ec=asw-gmail-globalnav-signin' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>ece275a7-0711-4243-a496-ce7ee22c7b6f</webElementGuid>
+      <webElementGuid>947b24ad-19be-4efb-9e02-b0f7f9560b0d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

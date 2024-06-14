@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>974845f5-0131-47ca-94ab-3389b9047e30</webElementGuid>
+      <webElementGuid>d7fa51c5-ae6b-4631-b7e0-558d4afda285</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gb_I</value>
-      <webElementGuid>d89dd579-c5fc-4d51-a634-509caa16b0f1</webElementGuid>
+      <webElementGuid>727bbf74-933f-4e64-ba09-c96e1903a0fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Gmail </value>
-      <webElementGuid>5826aada-588e-40e7-a15b-13f6959efaa4</webElementGuid>
+      <webElementGuid>ad97d7d3-4dcf-40ff-b658-120871f6d1f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-pid</name>
       <type>Main</type>
       <value>23</value>
-      <webElementGuid>e307bcfc-3faf-496d-9c51-29f93b61d56b</webElementGuid>
+      <webElementGuid>20b27c16-14a0-485e-aa99-5b90a6bed97d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://mail.google.com/mail/&amp;ogbl</value>
-      <webElementGuid>083760cf-6e63-47be-b8cd-31506188b9ca</webElementGuid>
+      <webElementGuid>e20b1a05-bb59-4531-94ce-9eb6c536b6ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_top</value>
-      <webElementGuid>351f1c70-f8be-4528-9033-5b3cfc3bb4f3</webElementGuid>
+      <webElementGuid>f75db70c-afb9-401b-ae57-c4da3e2195d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Gmail</value>
-      <webElementGuid>4ad092a1-43f6-460b-8131-3c7e90d6dc35</webElementGuid>
+      <webElementGuid>e9f8f175-b25f-4ca0-8fb7-2cb35adb13cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gb&quot;)/div[@class=&quot;gb_Dd gb_gb gb_rd&quot;]/div[1]/div[@class=&quot;gb_Kd gb_K gb_4f gb_Uf&quot;]/div[@class=&quot;gb_J gb_K&quot;]/a[@class=&quot;gb_I&quot;]</value>
-      <webElementGuid>c8523c18-43e1-4479-af41-893213434271</webElementGuid>
+      <webElementGuid>93c807e7-10c9-4c89-9045-5c0d4bc1eb1c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gb']/div/div/div/div/a</value>
-      <webElementGuid>86f5b6e1-9623-4802-a7b1-f241ff880b90</webElementGuid>
+      <webElementGuid>daacbc45-de40-4f29-8f00-9bbbdaa888cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Gmail')]</value>
-      <webElementGuid>c2c14382-da27-49aa-8d89-99e6210b6f81</webElementGuid>
+      <webElementGuid>5373bedc-b94f-49bc-8dba-037e57fd5782</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Images'])[1]/preceding::a[1]</value>
-      <webElementGuid>e957bcbe-efdd-4396-a830-efc0bdda71ff</webElementGuid>
+      <webElementGuid>7645b187-10b7-4d83-85aa-815f84a0fe85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::a[3]</value>
-      <webElementGuid>bcb2e704-f1ca-407e-b7e4-ffb7b54394bb</webElementGuid>
+      <webElementGuid>b80d28f7-eb5b-4f56-9e38-cdb21a266893</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Gmail']/parent::*</value>
-      <webElementGuid>0f8024eb-35c3-4642-8be3-2d58d21bfeef</webElementGuid>
+      <webElementGuid>a9ae16d8-9a81-466d-800d-4024d61ab695</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://mail.google.com/mail/&amp;ogbl')]</value>
-      <webElementGuid>c5103aad-eccf-4443-81cc-eefe75e5f269</webElementGuid>
+      <webElementGuid>8fd28f25-7fdb-40af-a02b-096c3e35ddef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>e12a93e2-a677-4115-bc54-ae89645ce512</webElementGuid>
+      <webElementGuid>d4bb06f0-cf1b-44a5-8291-bc1ad66b4c03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://mail.google.com/mail/&amp;ogbl' and (text() = 'Gmail' or . = 'Gmail')]</value>
-      <webElementGuid>9ff08230-81b4-463d-8325-f34ea5db0c58</webElementGuid>
+      <webElementGuid>fd015907-2376-41fb-9c98-d4b95534f6ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

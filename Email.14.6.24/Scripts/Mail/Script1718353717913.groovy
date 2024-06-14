@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Gmail/input_to continue to 
 
 WebUI.click(findTestObject('Object Repository/Page_Gmail/span_Next'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Gmail/input_Too many failed attempts_Passwd'), 'od7GkKibJepsfKoYHz4/IQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Gmail/input_Too many failed attempts_Passwd_1'), 'od7GkKibJepsfKoYHz4/IQ==')
 
 WebUI.click(findTestObject('Object Repository/Page_Gmail/input_Too many failed attempts_VfPpkd-muHVF_8ead10'))
 

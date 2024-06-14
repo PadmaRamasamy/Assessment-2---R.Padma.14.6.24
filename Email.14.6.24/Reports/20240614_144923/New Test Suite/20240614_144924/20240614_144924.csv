@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 126.0.0.0,,,14-06-2024 14:49:35,14-06-2024 14:50:37,1m - 2.113s,PASSED
+,,,,,,,
+Test Cases/Mail,Chrome 126.0.0.0,,,14-06-2024 14:49:35,14-06-2024 14:50:37,1m - 1.891s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 14:49:36,14-06-2024 14:49:40,3.681s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 126.0.0.0,,,14-06-2024 14:49:40,14-06-2024 14:49:52,12.399s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_Gmail""))",Chrome 126.0.0.0,,,14-06-2024 14:49:52,14-06-2024 14:49:56,4.180s,PASSED
+"click(findTestObject(""Object Repository/Page_Gmail Private and secure email at no c_d3ebd8/a_Sign in""))",Chrome 126.0.0.0,,,14-06-2024 14:49:56,14-06-2024 14:49:59,2.620s,PASSED
+"setText(findTestObject(""Object Repository/Page_Gmail/input_to continue to Gmail_identifier""), ""padmaramasamy2024"")",Chrome 126.0.0.0,,,14-06-2024 14:49:59,14-06-2024 14:50:00,0.946s,PASSED
+"click(findTestObject(""Object Repository/Page_Gmail/span_Next""))",Chrome 126.0.0.0,,,14-06-2024 14:50:00,14-06-2024 14:50:01,1.045s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Gmail/input_Too many failed attempts_Passwd_1""), ""od7GkKibJepsfKoYHz4/IQ=="")",Chrome 126.0.0.0,,,14-06-2024 14:50:01,14-06-2024 14:50:03,2.371s,PASSED
+"click(findTestObject(""Object Repository/Page_Gmail/input_Too many failed attempts_VfPpkd-muHVF_8ead10""))",Chrome 126.0.0.0,,,14-06-2024 14:50:03,14-06-2024 14:50:03,0.334s,PASSED
+"click(findTestObject(""Object Repository/Page_Gmail/span_Next""))",Chrome 126.0.0.0,,,14-06-2024 14:50:03,14-06-2024 14:50:35,31.572s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,14-06-2024 14:50:35,14-06-2024 14:50:37,2.344s,PASSED
